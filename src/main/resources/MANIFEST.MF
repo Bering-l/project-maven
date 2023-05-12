@@ -1,5 +1,0 @@
-Manifest-Version: 1.0
-Created-By: 1.6.0
-Class-Path: .lib/desktop-game-engine.jar
-Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
-Rsrc-Main-Class: com.javarush.games.racer.RacerGame
